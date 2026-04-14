@@ -1,0 +1,12 @@
+{
+  "export_job_id": "1139c948-6afc-4f68-96c1-73523af59483",
+  "id_short": 670004,
+  "published_at": "2026-04-14T19:09:57Z",
+  "repo_name": "all-restaurants-in-atlanta-georgia-us-sample-670004",
+  "sample_asset_name": "beamstation_670004_restaurants-us-ga_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/670004/beamstation_670004_restaurants-us-ga_SAMPLE_DIST.csv",
+  "sample_records": 231,
+  "sample_sha256": "127f52846f2215b35b815de09126bd0792bf1b447f401b8e43abc300c424e539",
+  "sample_size_bytes": 816689,
+  "total_records": 2314
+}
