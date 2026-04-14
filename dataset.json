@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "City-level restaurant data for Atlanta, Georgia with a population of over 498k. This dataset includes every active restaurant listing filtered by the Restaurants category group, with business profiles, review analytics, competitive rankings, and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Atlanta, Georgia, US",
+  "export_job_id": "1139c948-6afc-4f68-96c1-73523af59483",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 670004,
+  "location_name": "Atlanta",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-atlanta-georgia-us-sample-670004",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/670004/beamstation_670004_restaurants-us-ga_SAMPLE_DIST.csv",
+  "sample_pct": 9.98,
+  "sample_records": 231,
+  "sample_sha256": "127f52846f2215b35b815de09126bd0792bf1b447f401b8e43abc300c424e539",
+  "sample_size_bytes": 816689,
+  "total_records": 2314,
+  "updated_at": "2026-04-09T15:49:08.997585+00:00"
+}
