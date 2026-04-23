@@ -1,6 +1,6 @@
 # All Restaurants in Atlanta, Georgia, US
 
-> Free BeamStation sample export with 229 rows and masked direct-contact fields.
+> Free BeamStation sample export with 102 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `670004` |
 | Location | Atlanta |
 | Category | Restaurants |
-| Full dataset size | 2,293 records |
-| Free sample size | 229 records (9.99%) |
-| Last export | 2026-04-16T18:39:21.922861+00:00 |
+| Full dataset size | 1,028 records |
+| Free sample size | 102 records (9.92%) |
+| Last export | 2026-04-23T14:40:17.955993+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-atlanta-georgia-us-sample-670004/releases/download/sample-latest/beamstation_670004_restaurants-us-ga_SAMPLE_DIST.csv) |
 
 ## What is in this sample
